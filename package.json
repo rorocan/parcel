@@ -2,15 +2,18 @@
   "name": "parcel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel serve --port 8080 src/index.html",
+    "build": "parcel build src/index.html --public-url ./",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "devDependencies": {
-    "parcel": "^2.14.4"
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.14.4",
+    "posthtml-include": "^2.0.1"
   }
 }
