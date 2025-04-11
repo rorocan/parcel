@@ -68,7 +68,7 @@
 121E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\node_modules\posthtml-include\node_modules\dom-serializer\node_modules133888566555949587 1
 109E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\node_modules\gh-pages\node_modules\commander\lib\option.js133888565234014324 0
 102E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\node_modules\caniuse-lite\data\features\jpeg2000.js133885982734794914 0
-65E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\src\index.html133888580410148289 0
+65E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\src\index.html133888599250497144 0
 102E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\node_modules\caniuse-lite\data\features\fontface.js133885982728567376 0
 82E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\node_modules\fastq\package.json133888565231041683 0
 85E:\00 PLATZI\52 Empaquetadores web\Proyecto\parcel\node_modules\posthtml\package.json133885982619189120 0
